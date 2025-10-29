@@ -1,0 +1,14 @@
+.heed{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    padding-bottom: 50px;
+    padding-top: 10px;
+    padding-left:10px ;
+    padding-right: 10px;
+}
+img{
+width: 100%;
+}

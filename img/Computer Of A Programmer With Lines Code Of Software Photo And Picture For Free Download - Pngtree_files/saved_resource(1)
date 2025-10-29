@@ -1,0 +1,43 @@
+
+var ftGUID_9346525="6511BA982EFF15";
+var ftConfID_9346525="0";
+var ftParams_9346525="ftOBA=1&ft_domain=pngtree.com&ft_ifb=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fpngtree.com%2F&us_privacy=${US_PRIVACY}&ft_partnerimpid=ABAjH0iR1uSfq9vMWyHyGYOiW-mZ&cachebuster=125646.18940447703";
+var ftKeyword_9346525="";
+var ftCustom_9346525="";
+var ftSection_9346525="";
+var ftSegment_9346525="";
+var ftSegmentList_9346525=[];
+var ftRuleMatch_9346525="0";
+var ftTimestamp_9346525="1761743018";
+var ftGeoC2_9346525="ng";
+var ftGeoState_9346525="og";
+var ftGeoCity_9346525="abeokuta";
+var ftISP_9346525="globacom limited";
+var ftSpeed_9346525="mobile";
+var ftConnType_9346525="mobile";
+var ftDMA_9346525="-1";
+var ftLong_9346525="3.36";
+var ftLat_9346525="7.15";
+var ftPostal_9346525="110211";
+var ftTimeZone_9346525="+100";
+var ftMobileCarrier_9346525="glo";
+var ftImp9346525 = {};
+ftImp9346525.privacy = "x";
+ftImp9346525.guidAge = "0";
+ftImp9346525.impID = "684C1047-F51F-8F9D-7F31-E5B6F3979F8B";
+ftImp9346525.duid = "FT:6511BA982EFF15";
+
+ftImp9346525.ft_tpplid = "";
+ftImp9346525.ft_c = {};
+ftImp9346525.gdpr = "";
+ftImp9346525.gdpr_consent = "";
+ftImp9346525.gdpr_pd = "";
+ftImp9346525.oob_consent = "";
+ftImp9346525.gdprStoredConsent = "";
+ftImp9346525.us_privacy = "!!US_PRIVACY!";
+ftImp9346525.gpc = "";
+
+ftImp9346525.jsAppend = "1";
+var ftCreativeId_9346525 = "5399679";
+(function(){var tag=document.getElementById("ft_servedby_9346525")||function(s){return s[s.length-1]}(document.getElementsByTagName("script")),js=document.createElement("script");js.src="https://ajs-assets.ftstatic.com/ftUtils.js";js.id="ftscript_m9346525";js.setAttribute("name","ftscript_m9346525");tag.parentNode.insertBefore(js,tag)})();window.fTChecker=window.fTChecker||function(id){if(!id)return false;id=""+id;if(window.hasOwnProperty("ftUtils")){window["ft"+id]=Object.assign({},window.ftUtils.common);window["ft"+id].getBannerConfig(id)}else(function(id){window.setTimeout(function(){window.fTChecker(id)},50)})(id)};window.fTChecker("9346525");
+
